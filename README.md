@@ -30,7 +30,7 @@ Artificial Intelligence Chatbot is a Java-based chatbot application designed for
 
 ## Project Structure:
 <p align="center">
-<img src="C:\Users\shudh\OneDrive\Pictures\Screenshots\project_str.png"width="600"height="500">
+<img src="images/project_str.png" width="600">
 </p>
 
 ## How to Run:
